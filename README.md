@@ -16,10 +16,10 @@
 
 ```
 功能
-zym		子域名
+zym	子域名
 whois	whois查询
-cdn		识别cdn是否存在
-fc		域名反查
+cdn	识别cdn是否存在
+fc	域名反查
 ports	常见端口扫描
 ```
 
